@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RTR",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -370,7 +370,7 @@
           "_anchor": "header3-7"
         },
         {
-          "text": "Rich Tea Media is the umbrella for three main products; the Discord Server Rich Tea Radio, The weekly music livesteam Rich Tea Live, and the podcast Rich Tea On Air. We are based in the UK and made up of a team of 8 creative minds with new ideas and thoughts to take us further. Our team is a mix of Gamers, Coders, Artists and a farmer who love what they do in their roles. So lets meet our crack team!",
+          "text": "Rich Tea Media is the umbrella for three main products; the Discord Server Rich Tea Radio, The weekly music livesteam Rich Tea Live, and the podcast Rich Tea On Air. We are based in the UK and made up of a team of 8 creative minds with new ideas and thoughts to take us further. Our team is a mix of Gamers, Coders, Artists and a Farmer who love what they do in their roles. So lets meet our crack team!",
           "_tags": [
             "Theme"
           ],
